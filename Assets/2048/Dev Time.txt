@@ -1,0 +1,7 @@
+Grid Creation & Visuals
+Sunday - 4 hours
+
+Game Controls & Basic Functioning Game
+Monday - 2 hours
+
+Command & Undo Code 
